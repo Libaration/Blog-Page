@@ -1,0 +1,25 @@
+body{
+    font-size: 18px;
+}
+table{
+    width: 90%;
+    margin: 30px;
+    border-collapse: collapse;
+    text-align: left;
+}
+
+tr{
+    border-bottom: 2px solid blue;
+}
+th, td {
+    height: 30px;
+    padding: 2px;
+}
+tr:hover{
+    background: dodgerblue;
+
+}
+
+
+
+
